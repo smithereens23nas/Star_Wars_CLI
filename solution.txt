@@ -1,0 +1,157 @@
+cd sei
+  590  ls
+  591  deliverables
+  592  git clone https://git.generalassemb.ly/smithereens23nas/Star_Wars.git
+  593  ls
+  594  cd sei
+  595  cd deliverables
+  596  cd Star_Wars
+  597  code .
+  598  ls
+  599  cd act1.sh
+  600  mkdir star_wars
+  601  cd star_wars
+  602  mkdir empire rebellion
+  603  ls
+  604  cd empire
+  605  pwd
+  606  touch darth_vader.txt
+  607  pwd
+  608  ls
+  609  echo "...heavy breathing..."
+  610  echo "...heavy breathing..." > darth_vader.txt
+  611  pwd
+  612  touch emperor_palpatine.txt
+  613  pwd
+  614  ls
+  615  pwd
+  616  mkdir death_star
+  617  ls
+  618  mv darth_vader.txt death_star
+  619  pwd
+  620  ls
+  621  mv emperor_palpatine.txt death_star
+  622  mv emperor_palpatine.txt empire
+  623  pwd
+  624  ls
+  625  cd death_star
+  626  mv emperor_palpatine.txt empire/
+  627  mv emperor_palpatine.txt
+  628  pwd
+  629  cd sei
+  630  cd deliverables
+  631  cd Star_Wars
+  632  git add .
+  633  git commit -m "Finished Act1git add ."
+  634  pwd
+  635  ls
+  636  ls -a
+  637  cd star_wars
+  638  ls
+  639  rebellion
+  640  touch luke_skywalker.txt
+  641  ls
+  642  mkdir milleniu_falcon
+  643  ls
+  644  rm -rf milleniu_falcon
+  645  ls
+  646  mkdir millenium_falcon
+  647  ls
+  648  cd millenium_falcon
+  649  touch han_solo.txt chewbacca.txt
+  650  ls
+  651  cd
+  652  ls
+  653  sei
+  654  del
+  655  deliverables
+  656  Star_Wars
+  657  ls
+  658  star_wars
+  659  ls
+  660  rebellion
+  661  ls
+  662  touch princess_leia.txt echo "Help me, Obi-Wan…You’re my only hope."
+  663  ls
+  664  rm -rf Help\ me,\ Obi-Wan…You’re\ my\ only\ hope.
+  665  ls
+  666  rm -rf echo
+  667  ls
+  668  cd princess_leia.txt
+  669  ls
+  670  rm -rf princess_leia.txt
+  671  ls
+  672  echo "Help me, Obi-Wan…You’re my only hope." >> princess_leia.txt
+  673  touch obi_wan.txt
+  674  ls
+  675  cd millenium_falcon
+  676  cd
+  677  sei
+  678  del
+  679  deliv
+  680  deliverables
+  681  Star_Wars
+  682  star_wars
+  683  ls
+  684  cd rebellion/
+  685  ls
+  686  mv luke_skywalker.txt obi_wan.txt princess_leia.txt millenium_falcon
+  687  ls
+  688  millenium_falcon
+  689  ls
+  690  pwd
+  691  mv /Users/nicholassmith/sei/deliverables/Star_Wars/star_wars/rebellion/millenium_falcon /Users/nicholassmith/sei/deliverables/Star_Wars/star_wars/empire/death_star
+  692  pwd
+  693  ls
+  694  cd ..
+  695  ls
+  696  cd..
+  697  cd ..
+  698  git add .
+  699  git commit -m "Finished Act2git add ."
+  700  ls
+  701  cd ..
+  702  ls
+  703  star_wars/
+  704  ls
+  705  empire
+  706  ls
+  707  mv death_star/* millenium_falcon/
+  708  pwd
+  709  ls
+  710  death_star
+  711  ls
+  712  millenium_falcon
+  713  ls
+  714  tree
+  715  rm -rf obi_wan.txt
+  716  mv millenium_falcon/ rebellion/
+  717  pwd
+  718  cd rebellion
+  719  ls
+  720  cd ..
+  721  ls
+  722  cd ..
+  723  ls
+  724  rebellion
+  725  pwd
+  726  mv /Users/nicholassmith/sei/deliverables/Star_Wars/star_wars/empire/death_star/millenium_falcon /Users/nicholassmith/sei/deliverables/Star_Wars/star_wars/rebellion\n
+  727  ls
+  728  cd ..
+  729  ls
+  730  empire
+  731  ls
+  732  death_star
+  733  mv darth_vader.txt empire/
+  734  cd ..
+  735  pwd
+  736  ls
+  737  death_star
+  738  mv darth_vader.txt /Users/nicholassmith/sei/deliverables/Star_Wars/star_wars/empire\n
+  739  ls
+  740  cd ..
+  741  ls
+  742  rm -rf death_star
+  743  ls
+  744  git add .
+  745  history | tail -n 250
